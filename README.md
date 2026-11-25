@@ -21,5 +21,5 @@ Microsoft Power BI, Power Query, DAX, Microsoft Excel.
 Add your dashboard screenshots here.
 
 ## PROJECT FILE
-Automotive Market Analysis – Power BI (.pbix)
+https://app.powerbi.com/reportEmbed?reportId=ca63dd90-e37a-4de1-82e2-dd7b41d67717&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f
 
